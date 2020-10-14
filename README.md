@@ -2,14 +2,13 @@
 Compilation of popular algorithms in java.
 
 # Index
-  - [**Searching Algorithms**](https://github.com/srsandy/DSA-in-JAVA/tree/master/Chapter-02)
-    - [**Linear Search**](https://github.com/srsandy/DSA-in-JAVA/blob/master/Chapter-02/lowArrayApp.java)
-    - [**Binary Search**](https://github.com/srsandy/DSA-in-JAVA/blob/master/Chapter-02/highArrayApp.java)
+  - [**Searching Algorithms**]
+    - [**Linear Search**]
+    - [**Binary Search**]
     
-  - [**Sorting Algorithms**](https://github.com/srsandy/DSA-in-JAVA/tree/master/Chapter-02)
-    - [**Bubble Sort**](https://github.com/srsandy/DSA-in-JAVA/blob/master/Chapter-02/lowArrayApp.java)
-    - [**Quick Sort**](https://github.com/srsandy/DSA-in-JAVA/blob/master/Chapter-02/highArrayApp.java)
-
+  - [**Sorting Algorithms**]
+    - [**Bubble Sort**]
+    - [**Quick Sort**]
 ### You like it ?
 - Don't forget to Start and Watch the repo 
 
@@ -24,6 +23,6 @@ Feel free to contribute .. :smile:
 
 ## Requests, Improvements, Issues
 
-If you found a mistake, or want improvemenents are needed feel free to submit [**a new issue**](https://github.com/srsandy/DSA-in-JAVA/issues).
+If you found a mistake, or want improvemenents are needed feel free to submit [**a new issue**].
 
 
