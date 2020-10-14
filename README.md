@@ -9,6 +9,9 @@ Compilation of popular algorithms in java.
   - [**Sorting Algorithms**]
     - [**Bubble Sort**]
     - [**Quick Sort**]
+    
+  - [**Divide and Conquer**]
+    -[**Merge Linked Lists**]
 ### You like it ?
 - Don't forget to Start and Watch the repo 
 
