@@ -13,6 +13,10 @@ Compilation of popular algorithms in java.
   - [**Divide and Conquer**]
   
     - [**Merge Linked Lists**]
+
+  - [**Dynamic Programming**]
+    - [**Longest Common Subsequence**]
+  
 ### You like it ?
 - Don't forget to Start and Watch the repo 
 
