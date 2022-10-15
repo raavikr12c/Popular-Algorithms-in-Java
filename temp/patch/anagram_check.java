@@ -1,11 +1,9 @@
 import java.util.Arrays;
 
-/**
+/*
  * Java program - String Anagram Example.
  * This program checks if two Strings are anagrams or not
- *
- * @author Javin Paul
- */
+*/
 public class AnagramCheck {
    
     /*
