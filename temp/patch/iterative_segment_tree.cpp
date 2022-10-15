@@ -1,4 +1,5 @@
 // CPP Program to implement iterative segment tree.
+
 /*
 Question: We have an array arr[0 . . . n-1]. We should be able to
 	  1. Find the minimum of elements from index l to r where 0 <= l <= r <= n-1
